@@ -1,6 +1,6 @@
-# Digevo Video Server (NodeJS)
+# TASBP Image Server (NodeJS)
 
-API para obtener y cargar un video en el servidor, usada para la pagina de Digevo.
+Servidor de archivos de imagen para la aplicacion del proyecto final de programación avanzada
 
 ## Cómo funciona?
 
